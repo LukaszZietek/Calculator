@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--This is last operation-->
+<Dzialanie>
+  <Dzialanie>
+    <Rownanie>5+5+3+4+2*3</Rownanie>
+    <Wynik>23</Wynik>
+  </Dzialanie>
+</Dzialanie>

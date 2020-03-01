@@ -1,0 +1,11 @@
+C:\Users\Lukasz\Desktop\Projekt_Visual\Projekt_PO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lukasz\Desktop\Projekt_Visual\Projekt_PO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lukasz\Desktop\Projekt_Visual\Projekt_PO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lukasz\Desktop\Projekt_Visual\Projekt_PO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Lukasz\Desktop\Projekt_Visual\Projekt_PO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lukasz\Desktop\Projekt_Visual\Projekt_PO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lukasz\Desktop\Projekt_Visual\Projekt_PO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lukasz\Desktop\Projekt_Visual\Projekt_PO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lukasz\Desktop\Projekt_Visual\Projekt_PO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lukasz\Desktop\Projekt_Visual\Projekt_PO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lukasz\Desktop\Projekt_Visual\Projekt_PO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources

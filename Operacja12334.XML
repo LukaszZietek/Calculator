@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--This is last operation-->
+<Dzialanie>
+  <Dzialanie>
+    <Rownanie>50+10+30+9083+3</Rownanie>
+    <Wynik>9176</Wynik>
+  </Dzialanie>
+  <Dzialanie>
+    <Rownanie>5+15*3</Rownanie>
+    <Wynik>50</Wynik>
+  </Dzialanie>
+</Dzialanie>
